@@ -1,0 +1,10 @@
+{
+    "name": "accah/demo",
+    "authors": [
+        {
+            "name": "Ahmed Mokhtar",
+            "email": "acc.ahmed@ymail.com"
+        }
+    ],
+    "require": {}
+}
